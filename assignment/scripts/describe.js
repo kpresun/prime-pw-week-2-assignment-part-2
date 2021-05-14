@@ -72,7 +72,7 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 // We create 3 variables: isStudent, age and zip. The first "IF" command checks to see if isStudent is true, which it is. However this command also requres that the second statement that zip is > than 80000 - which is false. We move onto the second command.
 //The second command finds that isStudent does not equal false or neither is the age smaller than 30. We move onto the last command.
-//If find that isStudent is true so we console.log ('How about the weather?')
+//The last else If command finds that isStudent is true so we console.log ('How about the weather?')
 //
 
 //CODE
