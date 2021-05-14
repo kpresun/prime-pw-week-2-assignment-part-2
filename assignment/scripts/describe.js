@@ -47,7 +47,7 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // We created a variable, secret and did not assign it any value. We created a variable, code with a value of 123
 //If variable, code matches exactly to value, 123, variable, secret will equal 'Super' and code will multiply itself times 2.
-//If, initial "If" command is false however, the second "If" command will run. If variable, code is more than 250, it will equal duper.
+//If, initial "If" command is false however, the second "If" command will run. If variable, code is more than 250, variable, secret will equal duper.
 //Code value 123 === 123, so it's new value is 246. However, that is smaller than 250 but we still console.log ('secret')
 
 //CODE
